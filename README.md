@@ -45,11 +45,8 @@ Contributions to the Snake Game project are welcome! If you find any issues or h
 Acknowledgments
 This project was inspired by the classic Snake Game and developed for educational purposes. Special thanks to the Python community for providing resources and tutorials on game development.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Have fun playing the Snake Game! If you encounter any problems or have questions, please don't hesitate to reach out.
 
 Author: Garvit Bagadi
 Contact: garvitbagadi0851@gmail.com
-GitHub: GarvitBagadi
+GitHub: GarvitBagadi1
